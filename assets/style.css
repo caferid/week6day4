@@ -1,0 +1,21 @@
+body {
+    display: flex;
+    flex-direction: column;
+}
+
+form {
+    width: 200px;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+}
+
+h2 {
+    margin: auto;
+}
+
+button {
+    margin: auto;
+    margin-top: 40px;
+    width: 70px;
+}
